@@ -116,7 +116,11 @@ button{
 }
 .blog-btn a{
     color: black;
-}.first-btn {
+}
+.blog-btn:hover {
+    background-color: red;
+}
+.first-btn {
     background-color: #DD0000;
     width:150px;
     margin: auto;
